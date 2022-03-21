@@ -14,13 +14,15 @@
     <a href="#roadmap">Roadmap</a> &nbsp;|&nbsp;
 </p>
 
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
     alt="Animo Logo"
     src="images/animo-logo-dark-background.png#gh-dark-mode-only"
     height="12px"
   /><img
     alt="Animo Logo"
-    src="images/animo-logo-dark-background.png#gh-light-mode-only"
+    src="images/animo-logo-light-background.png#gh-light-mode-only"
     height="12px"
   /></a>
 
