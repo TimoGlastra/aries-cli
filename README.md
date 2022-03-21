@@ -14,13 +14,15 @@
     <a href="#roadmap">Roadmap</a> &nbsp;|&nbsp;
 </p>
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![GitHub Light](./images/animo-logo-dark-background.png#gh-dark-mode-only)
 
 > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
+
     alt="Animo Logo"
     src="images/animo-logo-dark-background.png#gh-dark-mode-only"
     height="12px"
-  /><img
+
+/><img
     alt="Animo Logo"
     src="images/animo-logo-light-background.png#gh-light-mode-only"
     height="12px"
@@ -32,29 +34,36 @@ Aries CLI is the most convenient way for self-sovereign identity (SSI) developer
 
 Building an SSI solution requires many, _many_ interactions with an SSI agent. Each interaction, often comprised of multiple steps, must be furnished with an endpoint and associated data. The Aries CLI makes working with verifiable credentials easy by giving users:
 
-* 🌐 **Environments** to easily manage configuration for multiple projects and agents
-* 🌟 **Actions and workflows** that you can perform against an agent
-* 💅🏻 **Mock data** so that you can focus on the important task of building your application instead of other foobar (coming soon 🚧)
+- 🌐 **Environments** to easily manage configuration for multiple projects and agents
+- 🌟 **Actions and workflows** that you can perform against an agent
+- 💅🏻 **Mock data** so that you can focus on the important task of building your application instead of other foobar (coming soon 🚧)
 
 This README was set up for you to get started as fast as possible. Looking for more information about the concepts, example code and tutorials on how to use the CLI? Check out our extensive [docs](https://github.com/animo/aries-cli/pull/www.google.com).
 
 ## Getting started
 
 Whatever your system, we've got you covered.
+
 ### macOS
+
 #### Binary
+
 [Download the binary](https://github.com/animo/aries-cli/releases) and place it on your PATH.
 
 #### Brew
+
 ```sh
 echo "Coming soon!"
 ```
 
 ### Linux
+
 #### Binary
+
 [Download the binary](https://github.com/animo/aries-cli/releases) and place it on your PATH.
 
 #### Apt-get
+
 ```sh
 echo "Coming soon!"
 ```
@@ -62,6 +71,7 @@ echo "Coming soon!"
 ### Windows
 
 #### Binary
+
 [Download the binary](https://github.com/animo/aries-cli/releases) and place it on your PATH
 
 #### Chocolatey
@@ -118,11 +128,12 @@ contributions. [Get involved](./docs/contributing.md).
 ## Roadmap
 
 <!-- TODO: Add more details about the actions and features we support -->
+
 We intend to support multiple versions of the Aries agent. See the CLI help `aries-cli --help` for a list of actions we currently support.
 
 Next we are looking at adding:
 
-| Feature | Status | Description |
-|---------|--------|-------------|
-| Mock data | 🚧 | Generate mock data for large data structures like schemas and credential definitions |
-| Workflows | 🚧 | Chain multiple actions together for higher-level goals like: issue a credential |
+| Feature   | Status | Description                                                                          |
+| --------- | ------ | ------------------------------------------------------------------------------------ |
+| Mock data | 🚧     | Generate mock data for large data structures like schemas and credential definitions |
+| Workflows | 🚧     | Chain multiple actions together for higher-level goals like: issue a credential      |
