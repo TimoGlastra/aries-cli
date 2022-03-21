@@ -15,6 +15,7 @@
 </p>
 
 ![GitHub Light](./images/animo-logo-dark-background.png#gh-dark-mode-only)
+![GitHub Light](./images/animo-logo-light-background.png#gh-light-mode-only)
 
 > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
 
