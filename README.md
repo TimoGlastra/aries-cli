@@ -17,10 +17,7 @@
 <img src="./images/animo-logo-dark-background.png#gh-dark-mode-only">
 <img src="./images/animo-logo-light-background.png#gh-light-mode-only">
 
-![GitHub Light](./images/animo-logo-dark-background.png#gh-dark-mode-only)
-![GitHub Light](./images/animo-logo-light-background.png#gh-light-mode-only)
-
-> Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
+<!-- > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
 
     alt="Animo Logo"
     src="images/animo-logo-dark-background.png#gh-dark-mode-only"
@@ -30,7 +27,7 @@
     alt="Animo Logo"
     src="images/animo-logo-light-background.png#gh-light-mode-only"
     height="12px"
-  /></a>
+  /></a> -->
 
 <!-- Add badges? -->
 
