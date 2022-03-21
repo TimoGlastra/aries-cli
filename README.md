@@ -14,8 +14,8 @@
     <a href="#roadmap">Roadmap</a> &nbsp;|&nbsp;
 </p>
 
-<img src="./images/animo-logo-dark-background.png#gh-dark-mode-only">
-<img src="./images/animo-logo-light-background.png#gh-light-mode-only">
+<img src="./images/animo-logo-dark-background.png#gh-dark-mode-only" height="12px">
+<img src="./images/animo-logo-light-background.png#gh-light-mode-only" height="12px">
 
 <!-- > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
 
