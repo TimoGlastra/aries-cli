@@ -14,19 +14,7 @@
     <a href="#roadmap">Roadmap</a> &nbsp;|&nbsp;
 </p>
 
-> Powered By <img src="./images/animo-logo-dark-background.png#gh-dark-mode-only" height="12px"><img src="./images/animo-logo-light-background.png#gh-light-mode-only" height="12px">
-
-<!-- > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
-
-    alt="Animo Logo"
-    src="images/animo-logo-dark-background.png#gh-dark-mode-only"
-    height="12px"
-
-/><img
-    alt="Animo Logo"
-    src="images/animo-logo-light-background.png#gh-light-mode-only"
-    height="12px"
-  /></a> -->
+> Powered By &nbsp; <img src="./images/animo-logo-dark-background.png#gh-dark-mode-only" height="12px"><img src="./images/animo-logo-light-background.png#gh-light-mode-only" height="12px">
 
 <!-- Add badges? -->
 
