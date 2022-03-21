@@ -16,11 +16,11 @@
 
 > Powered by &nbsp; <a href="https://animo.id" target="_blank" aria-label="Animo"><img
     alt="Animo Logo"
-    src="https://demo.animo.id/static/media/animo-logo-dark.b97636da53e740cb4282.png#gh-dark-mode-only"
+    src="images/animo-logo-dark-background.png#gh-dark-mode-only"
     height="12px"
   /><img
     alt="Animo Logo"
-    src="https://demo.animo.id/static/media/animo-logo-light.6b147a150e7cb6318778.png#gh-light-mode-only"
+    src="images/animo-logo-dark-background.png#gh-light-mode-only"
     height="12px"
   /></a>
 
